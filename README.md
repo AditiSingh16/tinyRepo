@@ -1,20 +1,22 @@
 # tinyRepo
+
 Welcome to my controlled environment for making mistakes with Git.
 A sandbox for experimenting with Git, version control, and eventually questionable engineering decisions.
 <br>
-Author - Aditi
+Author - Aditi Singh
+
 ## Experiments
 
-| Experiment | Status |
-|---|---|
-| Repository initialization | ✅ |
-| First commit | ✅ |
-| Branching | 🧪 |
-| Merging | 🧪 |
-| Pull Requests | 🧪 |
-| Merge conflicts | 😈 |
-| CI/CD | 🔜 |
-| AI integration | 🔜 |
+| Experiment                | Status |
+| ------------------------- | ------ |
+| Repository initialization | ✅     |
+| First commit              | ✅     |
+| Branching                 | 🧪     |
+| Merging                   | 🧪     |
+| Pull Requests             | 🧪     |
+| Merge conflicts           | 😈     |
+| CI/CD                     | 🔜     |
+| AI integration            | 🔜     |
 
 ## Architecture
 
@@ -30,3 +32,4 @@ Commit
 Branch
    ↓
 GitHub
+```
